@@ -221,7 +221,7 @@ Governance at YieldLoop is reserved for users who have demonstrated a significan
 7. LoopLab: Social Impact & Proof of Impact
 YieldLoop was built to generate yield, but its founders believe that yield without purpose is merely a number. LoopLab is the protocol's answer to technology inequality, serving as an independent, mission-driven organization funded permanently by the growth of the ecosystem.
 7.1 The Mission: Eastern Shore Uplift
-LoopLab’s primary mission is to provide a "way in" for those left behind by the rapidly advancing technology economy [cite: 698-700]. [cite_start]The organization focuses on intrusive leadership and intervention, specifically targeting rural and underserved areas such as the Maryland Eastern Shore—a region characterized by farmland, chicken houses, and watermen with limited exposure to industrial technology.
+LoopLab’s primary mission is to provide a "way in" for those left behind by the rapidly advancing technology economy . The organization focuses on intrusive leadership and intervention, specifically targeting rural and underserved areas such as the Maryland Eastern Shore—a region characterized by farmland, chicken houses, and watermen with limited exposure to industrial technology.
 The curriculum is practical and designed to translate directly into economic independence:
  * Fintech & Digital Literacy: Understanding the tools of the modern economy.
  * Web3 & Application Development: Building and shipping software in the blockchain era.
@@ -232,12 +232,12 @@ LoopLab is a self-sustaining entity by design, utilizing two primary revenue str
  * NFT Proceeds: 10% of all initial Genesis NFT sales are allocated directly to LoopLab.
  * Platform Fees: 10% of all protocol fees collected are directed toward the organization.
  * Secondary Market: A portion of the protocol's marketplace fees contributes to the long-term sustainability of the mission.
-Initially, these funds cover the salary of an Executive Director whose sole role is to build the program, secure external grants, and ensure capital is deployed toward measurable outcomes [cite: 61, 705-707, 985].
+Initially, these funds cover the salary of an Executive Director whose sole role is to build the program, secure external grants, and ensure capital is deployed toward measurable outcomes.
 7.3 Proof of Impact Framework
 To ensure transparency and efficacy, LoopLab operates under a Proof of Impact model.
  * Measurable Outcomes: Every program receiving funding must report on students trained, businesses assisted, and employment results.
  * Conditional Funding: Capital continues to flow only to programs that demonstrate real-world impact; underperforming programs are defunded.
- * Local Business Integration: Small business owners can partner with LoopLab to find practical, tech-enabled solutions for their operations—moving from theory to actual business improvement [cite: 702-704, 983-984].
+ * Local Business Integration: Small business owners can partner with LoopLab to find practical, tech-enabled solutions for their operations—moving from theory to actual business improvement.
 7.4 Community Governance
-YieldLoop users are active participants in this social mission. [cite_start]While the Executive Director manages day-to-day operations, any grant allocation exceeding $10,000 requires a formal governance vote from qualified protocol participants. By participating in the protocol, users are directly pulling the lever of technology access for communities that have never had the opportunity [cite: 713-714, 992].
+YieldLoop users are active participants in this social mission. While the Executive Director manages day-to-day operations, any grant allocation exceeding $10,000 requires a formal governance vote from qualified protocol participants. By participating in the protocol, users are directly pulling the lever of technology access for communities that have never had the opportunity.
 This concludes the YieldLoop White Paper Version 7.0. Would you like me to generate a One-Page "Plain English Guide" summary based on these seven sections for your community?
